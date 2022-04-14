@@ -1,0 +1,6 @@
+.env.dev
+.env.prod
+db.sqlite3
+__pycache__/
+.env.dev.swp
+*.py[cod]
