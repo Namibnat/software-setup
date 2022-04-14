@@ -58,4 +58,6 @@ These are the main ideas I have in point form:
 
 ### Why
 
-This has been an idea buzzing around my head for a while.  I think many courses online, such as those found on Udemy,spend way to much time
+This has been an idea buzzing around my head for a while.  I think many courses online, such as those found on Udemy,spend way to much time describing how to set up software in their course.  Same with book authors.  And, often when you're doing the course, you find some aspect of the set-up that just doesn't match your own desired software stack.
+
+So, the idea is that those authors can simply point to our site for the set-ups.
